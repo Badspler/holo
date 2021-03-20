@@ -360,7 +360,7 @@ info:
   kitsu: 'https://kitsu.io/anime/43578'
   animeplanet: 'http://www.anime-planet.com/anime/fruits-basket-the-final'
   official: 'https://fruba.jp/'
-  subreddit: ''
+  subreddit: '/r/FruitsBasket'
 streams: 
   crunchyroll: ''
   museasia: ''
@@ -456,7 +456,7 @@ info:
   kitsu: 'https://kitsu.io/anime/43271'
   animeplanet: 'http://www.anime-planet.com/anime/dont-toy-with-me-miss-nagatoro'
   official: 'https://nagatorosan.jp/'
-  subreddit: ''
+  subreddit: '/r/nagatoro'
 streams: 
   crunchyroll: ''
   museasia: ''
@@ -787,7 +787,7 @@ info:
   kitsu: 'https://kitsu.io/anime/43932'
   animeplanet: 'http://www.anime-planet.com/anime/odd-taxi'
   official: 'https://oddtaxi.jp/'
-  subreddit: ''
+  subreddit: '/r/OddTaxi'
 streams: 
   crunchyroll: 'https://www.crunchyroll.com/oddtaxi'
   museasia: ''
